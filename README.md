@@ -5,7 +5,7 @@
 ### :muscle::books: Tech Stack
 <img src="https://img.shields.io/badge/Python-blue?style=falt-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=falt-square&logo=c&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-blue?style=falt-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=falt-square&logo=Microsoft SQL Server&logoColor=white"/></a>
 
 
 <!--
