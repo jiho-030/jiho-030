@@ -1,5 +1,5 @@
 ### Hi I'm JH 👋
-### EWHA WOMANS UNIVERSITY
+#### :mortar_board:EWHA WOMANS UNIVERSITY
 
 
 <!--
