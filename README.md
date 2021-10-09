@@ -5,7 +5,11 @@
 ### :muscle::books: Tech Stack
 <img src="https://img.shields.io/badge/Python-blue?style=falt-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=falt-square&logo=c&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=falt-square&logo=Microsoft SQL Server&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=falt-square&logo=Linux&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=falt-square&logo=PyTorch&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=falt-square&logo=TensorFlow&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Keras-D00000?style=falt-square&logo=Keras&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MSSQL-CC2927?style=falt-square&logo=Microsoft SQL Server&logoColor=white"/></a>
 
 
 <!--
