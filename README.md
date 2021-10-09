@@ -1,5 +1,8 @@
 ### Hi I'm JH 👋
 #### :mortar_board:EWHA WOMANS UNIVERSITY
+- Major in Division of **Mechanical and Biomedical Engineering(MBE)**
+- Minor in **Computer Science Engineering(CSE)**
+
 
 
 <!--
