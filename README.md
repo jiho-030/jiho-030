@@ -10,6 +10,7 @@
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=falt-square&logo=TensorFlow&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Keras-D00000?style=falt-square&logo=Keras&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MSSQL-CC2927?style=falt-square&logo=Microsoft SQL Server&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/R-276DC3?style=falt-square&logo=R&logoColor=white"/></a>
 
 
 <!--
