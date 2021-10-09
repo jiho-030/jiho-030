@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi I'm JH 👋
+### EWHA WOMANS UNIVERSITY
 
 
 <!--
