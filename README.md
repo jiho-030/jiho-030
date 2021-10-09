@@ -3,7 +3,7 @@
 - Major in Division of **Mechanical and Biomedical Engineering(MBE)**
 - Minor in **Computer Science Engineering(CSE)**
 ### :muscle::books: Tech Stack
-<target="_blank"><img src="https://img.shields.io/badge/Python-blue?style=falt-square&logo=appveyor&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-blue?style=falt-square&logo=Python&logoColor=white"/></a>
 
 
 <!--
